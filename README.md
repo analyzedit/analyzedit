@@ -1,7 +1,7 @@
 ## Hello World 👋
-I am interested in Data Science, Software Design, and UI/UX.
+I am interested in Data Science, Web Design, and UI/UX.
 
-I am currently working with Python and JS.
+I am currently working with Python, HTML, CSS, and JS.
 
 I have experience with Tableau and Power Bi.
 <!--
